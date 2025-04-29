@@ -67,7 +67,7 @@ const CustomAutocomplete = () => {
             style={{
               position: "absolute",
               zIndex: 10,
-              width: "100%",
+              width: "300px",
               maxHeight: 200,
               overflowY: "auto",
             }}
