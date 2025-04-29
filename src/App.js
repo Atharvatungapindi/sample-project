@@ -5,7 +5,6 @@ import CustomAutocomplete from "./components/CustomAutocomplete";
 function App() {
   return (
     <div className="App">
-      // <Home />
     <CustomAutocomplete/>
     </div>
   );
