@@ -1,10 +1,12 @@
 import "./App.css";
 import Home from "./components/Home";
+import CustomAutocomplete from "./components/CustomAutocomplete";
 
 function App() {
   return (
     <div className="App">
-      <Home />
+      // <Home />
+    <CustomAutocomplete/>
     </div>
   );
 }
